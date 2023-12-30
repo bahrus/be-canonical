@@ -1,0 +1,19 @@
+{
+  "name": "be-canonical",
+  "version": "0.0.0",
+  "description": "Turn some expanded HTML into the smallest, optimized HTML representation so it can be rapidly cloned (via web components, for example)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/be-canonical.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/be-canonical/issues"
+  },
+  "homepage": "https://github.com/bahrus/be-canonical#readme"
+}
